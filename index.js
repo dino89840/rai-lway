@@ -15,10 +15,10 @@ const FILE_PATH = process.env.FILE_PATH || './tmp';
 const SUB_PATH = process.env.SUB_PATH || 'sub';       
 const PORT = process.env.SERVER_PORT || process.env.PORT || 3000;        
 const UUID = process.env.UUID || '4f720440-3c0c-4a37-92f5-44779737a553'; 
-const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'kob.kktmm.qzz.io';           
-const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiNDI0NDA1NjZjMDFiNjFhZmQyYTEzOTlmYjAwZTM1MmEiLCJ0IjoiNDdhNGViMGMtNzVhYy00ZTAwLWFjOGYtZmYxMjI2ZTdiYTFiIiwicyI6IlpEWXlPVGt6T1RJdE5HVmtZUzAwTkRNd0xUaGtaRGt0TWpGbVkySXlZVEk0WVRFMSJ9';               
-const ARGO_PORT = process.env.ARGO_PORT || 8008;             
-const CFIP = process.env.CFIP || '45.85.118.101';         
+const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'kairizy.iqowoqer.kdns.fr';           
+const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiZjJiMjQxMjlmZmZhNGQyYmE2M2I4ODg1NzQ5NjYwYjUiLCJ0IjoiOThmZjMxY2YtMzc5Zi00NjVmLWE0NzEtZGVkY2U1OGRjMmY1IiwicyI6Ik5XRTJOalUyTURJdFlUVmlNaTAwWXpKbExUaGhOamt0Wm1ZNVlUVXhORGRpWWpnMSJ9';               
+const ARGO_PORT = process.env.ARGO_PORT || 8072;             
+const CFIP = process.env.CFIP || 'www.wto.org';         
 const CFPORT = process.env.CFPORT || 443;                   
 const NAME = process.env.NAME || '';                        
 
